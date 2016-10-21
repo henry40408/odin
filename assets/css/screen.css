@@ -470,6 +470,7 @@ margin on the iframe, cause it breaks stuff. */
 
 /* Centres vertically yo. (IE8+) */
 .vertical {
+    background-color: rgba(0, 0, 0, 0.75);
     display: table-cell;
     vertical-align: middle;
 }
